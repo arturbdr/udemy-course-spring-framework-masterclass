@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <spring.version>5.0.4.RELEASE</spring.version>
+        <spring.version>5.0.7.RELEASE</spring.version>
         <maven-war-plugin.version>3.2.0</maven-war-plugin.version>
         <spring-webmvc.version>5.0.4.RELEASE</spring-webmvc.version>
     </properties>
